@@ -1,0 +1,25 @@
+.tile {
+	margin: 2% 4%;
+}
+
+.tile-img {
+	box-sizing: border-box;
+}
+
+.tile-img img {
+	border: solid 3px #000;
+	border-radius: 50%;
+	box-shadow: 4px 4px 2px 0px rgba(0,0,0,0.3);
+	transition-duration: 500ms;
+}
+
+.tile-img img:hover {
+	box-shadow: none;
+	position: relative;
+	bottom: -2px;
+	right: -2px;
+}
+
+.tile-img img:active {
+	opacity: 0.6;
+}

@@ -1,0 +1,102 @@
+[
+	{
+		"id" : 1,
+		"name" : "The Batman",
+		"image" : "./img/tiles/batman.png"
+	},
+	{
+		"id" : 2,
+		"name" : "Black Panther",
+		"image" : "./img/tiles/blackpanther.png"
+	},
+	{
+		"id" : 3,
+		"name" : "Cable",
+		"image" : "./img/tiles/cable.png"
+	},
+	{
+		"id" : 4,
+		"name" : "Captain America",
+		"image" : "./img/tiles/captainAmerica.png"
+	},
+	{
+		"id" : 5,
+		"name" : "Cyclops",
+		"image" : "./img/tiles/cyclops.png"
+	},
+	{
+		"id" : 6,
+		"name" : "Daredevil",
+		"image" : "./img/tiles/daredevil.png"
+	},
+	{
+		"id" : 7,
+		"name" : "The Flash",
+		"image" : "./img/tiles/flash.png"
+	},
+	{
+		"id" : 8,
+		"name" : "Ghost Rider",
+		"image" : "./img/tiles/ghostrider.png"
+	},
+	{
+		"id" : 9,
+		"name" : "Green Arrow",
+		"image" : "./img/tiles/greenarrow.png"
+	},
+	{
+		"id" : 10,
+		"name" : "Green Lantern",
+		"image" : "./img/tiles/greenlantern.png"
+	},
+	{
+		"id" : 11,
+		"name" : "The Hulk",
+		"image" : "./img/tiles/hulk.png"
+	},
+	{
+		"id" : 12,
+		"name" : "Iron Man",
+		"image" : "./img/tiles/ironman.png"
+	},
+	{
+		"id" : 13,
+		"name" : "The Punisher",
+		"image" : "./img/tiles/punisher.png"
+	},
+	{
+		"id" : 14,
+		"name" : "She-Hulk",
+		"image" : "./img/tiles/shehulk.png"
+	},
+	{
+		"id" : 15,
+		"name" : "Spider-Man",
+		"image" : "./img/tiles/spiderman.png"
+	},
+	{
+		"id" : 16,
+		"name" : "Storm",
+		"image" : "./img/tiles/storm.png"
+	},
+	{
+		"id" : 17,
+		"name" : "Supergirl",
+		"image" : "./img/tiles/supergirl.png"
+	},
+	{
+		"id" : 18,
+		"name" : "Superman",
+		"image" : "./img/tiles/superman.png"
+	},
+	{
+		"id" : 19,
+		"name" : "Wonder Woman",
+		"image" : "./img/tiles/wonderwoman.png"
+	},
+	{
+		"id" : 20,
+		"name" : "Zatanna",
+		"image" : "./img/tiles/zatanna.png"
+	}
+]

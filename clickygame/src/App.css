@@ -1,0 +1,16 @@
+.App {
+	text-align: center;
+}
+
+.Tile-layout {
+	width: 80%;
+	margin: 2% auto;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	background: rgba(36, 66, 114, 0.8);
+	border: solid 5px #000;
+	border-radius: 25px;
+	box-shadow: 10px 10px 2px 0px rgba(0,0,0,0.3);
+}
