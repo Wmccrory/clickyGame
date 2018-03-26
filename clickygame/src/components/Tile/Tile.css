@@ -9,7 +9,7 @@
 .tile-img img {
 	border: solid 3px #000;
 	border-radius: 50%;
-	box-shadow: 4px 4px 2px 0px rgba(0,0,0,0.3);
+	box-shadow: 6px 6px 2px 0px rgba(0,0,0,0.3);
 	transition-duration: 500ms;
 }
 
@@ -22,4 +22,8 @@
 
 .tile-img img:active {
 	opacity: 0.6;
+}
+
+.hint {
+	opacity:0.3;
 }
