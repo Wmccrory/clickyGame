@@ -52,14 +52,14 @@ table {
 /*ELEMENT STYLING*/
 @font-face {
 	font-family: mero;
-    src: url(./fonts/mero.ttf);
+    src: url("./fonts/mero.ttf");
 }
 
 body {
 	margin: 0;
 	padding: 0;
 	font-family: sans-serif;
-	background-image: url(./img/background.png);
+	background-image: url("./img/background.png");
 }
 
 h1 {
